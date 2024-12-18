@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\santa_ana_sistema\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|solutionrelative:santa_ana_sistema\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|c:\\users\\admin\\source\\repos\\santa_ana_sistema\\santa_ana_sistema\\santa_ana_sistema\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|solutionrelative:santa_ana_sistema\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\santa_ana_sistema\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|solutionrelative:santa_ana_sistema\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\santa_ana_sistema\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59CE242F-42C9-4C20-9979-E18F67FA31C3}|Santa_Ana_Sistema\\CapaPresentacion.csproj|solutionrelative:santa_ana_sistema\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB108F50-39C6-4A8D-82A7-08C8F2FBB0DF}|CapaDatos\\CapaDatos.csproj|C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\capadatos\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB108F50-39C6-4A8D-82A7-08C8F2FBB0DF}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB108F50-39C6-4A8D-82A7-08C8F2FBB0DF}|CapaDatos\\CapaDatos.csproj|C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\capadatos\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB108F50-39C6-4A8D-82A7-08C8F2FBB0DF}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\CapaDatos\\Control.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Control.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\CapaDatos\\Control.cs",
+              "RelativeToolTip": "CapaDatos\\Control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:36:02.158Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\CapaDatos\\Modelo.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Modelo.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\CapaDatos\\Modelo.cs",
+              "RelativeToolTip": "CapaDatos\\Modelo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:29:10.425Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\FormCategoria.cs",
+              "RelativeDocumentMoniker": "Santa_Ana_Sistema\\FormCategoria.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\FormCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Santa_Ana_Sistema\\FormCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:57:27.32Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\FormUsuario.cs",
+              "RelativeDocumentMoniker": "Santa_Ana_Sistema\\FormUsuario.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\FormUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Santa_Ana_Sistema\\FormUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:56:18.472Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Inicio.cs",
+              "RelativeDocumentMoniker": "Santa_Ana_Sistema\\Inicio.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Santa_Ana_Sistema\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:32:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Santa_Ana_Sistema\\FormReportes.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\Santa_Ana_Sistema\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Santa_Ana_Sistema\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:57:42.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

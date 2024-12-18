@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\CapaEntidad.dll.config
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\FontAwesome.Sharp.dll
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\itextsharp.dll
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\itextsharp.xmlworker.dll
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\bin\Release\itextsharp.xml
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\obj\Release\CapaEnti.526B9C87.Up2Date
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\admin\source\repos\Santa_Ana_Sistema\Santa_Ana_Sistema\CapaEntidad\obj\Release\CapaEntidad.pdb
